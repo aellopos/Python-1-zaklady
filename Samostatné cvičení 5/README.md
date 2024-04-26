@@ -7,3 +7,6 @@ Napiš funkci mult, která bude mít dva číselné parametry. Funkce oba parame
 Napiš funkci total_price, která vypočte cenu noci v hotelu. Funkce bude mít dva parametry - persons a breakfast. Cena za noc za osobu je 850 Kč a cena za snídani za osobu je 125 Kč. Funkce vrátí výslednou cenu. Parametr breakfast je nepovinný a výchozí hodnota je False.
 
 Funkci vyzkoušej se zadáním dvou i jedné hodnoty, např. total_price(3), total_price(2, True).
+
+## 3 - Faktoriál
+Vytvořte program, který obsahuje funkci pro výpočet libovolného faktoriál. (https://cs.wikipedia.org/wiki/Faktori%C3%A1l)
