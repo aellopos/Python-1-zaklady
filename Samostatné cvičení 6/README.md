@@ -6,11 +6,13 @@ Vytvoř slovník, který reprezentuje vysvědčení. Klíč slovníku bude náze
 ## 2 - Detektivky
 Vydavatel detektivek si eviduje prodané kusy u jednotlivých knih. V následujícím slovníku najdeš tři knihy a u každé z nich je počet prodaných kusů.
 
+```python
 sales = {
     "Zkus mě chytit": 4165,
     "Vrah zavolá v deset": 5681,
     "Zločinný steh": 2565,
 }
+```
 
 - Zkopíruj si slovník do svého programu.
 - Přidej do slovníku nově vydanou detektivku "Noc, která mě zabila", která zatím nebyla uvedena na trh, je tedy prodáno 0 kusů.
@@ -19,6 +21,7 @@ sales = {
 ## 3 - Tombola
 V následujícím slovníku jsou uložena čísla lístků tomboly a příslušné výhry.
 
+```python
 tombola = {
     7: "Láhev kvalitního vína Château Headache",
     15: "Pytel brambor z místního družstva",
@@ -30,6 +33,7 @@ tombola = {
     91: "Roční předplatné městského zpravodaje",
     93: "Společenská hra Sázky a dostihy",
 }
+```
 
 - Napiš program, který se nejprve zeptá uživatele na číslo jeho lístku. Vstup uživatele si převeď na int!
 - Zkontroluj, zda je číslo lístku ve slovníku. Pokud ne, vypiš text "Bohužel nevyhráváš nic." Pokud číslo ve slovníku je, vypiš uživateli, co vyhrál.
