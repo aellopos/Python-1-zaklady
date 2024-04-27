@@ -16,3 +16,7 @@
 - Dokumentace Pythonu - https://www.python.org/doc/
 - https://naucse.python.cz/
 - Scientific Computing with Python - https://www.freecodecamp.org/learn/scientific-computing-with-python/
+- Procvičování programování v Pythonu + mentoring - https://exercism.org/
+
+## Kontakt
+Pokud vás napadne cokoliv a budete se chtít spojit, můžete mě najít na [Instagramu](https://www.instagram.com/mi_kucera/) nebo [LinkedInu](https://www.linkedin.com/in/mikucera/).
